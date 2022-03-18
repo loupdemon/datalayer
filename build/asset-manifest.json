@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6914d244.chunk.js",
+    "main.js.map": "/static/js/main.6914d244.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1127d5d6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1127d5d6.js.map",
+    "static/js/2.de182342.chunk.js": "/static/js/2.de182342.chunk.js",
+    "static/js/2.de182342.chunk.js.map": "/static/js/2.de182342.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.de182342.chunk.js.LICENSE.txt": "/static/js/2.de182342.chunk.js.LICENSE.txt",
+    "static/media/MDM-Data.7a66a87b.gif": "/static/media/MDM-Data.7a66a87b.gif",
+    "static/media/ataccama.7a887b77.gif": "/static/media/ataccama.7a887b77.gif",
+    "static/media/catalogue.ee938c53.gif": "/static/media/catalogue.ee938c53.gif",
+    "static/media/collibra.ae3f4949.gif": "/static/media/collibra.ae3f4949.gif",
+    "static/media/data-management.8f12d277.gif": "/static/media/data-management.8f12d277.gif",
+    "static/media/data.6ffd50f5.gif": "/static/media/data.6ffd50f5.gif",
+    "static/media/dictionnaire.7a7edd8a.gif": "/static/media/dictionnaire.7a7edd8a.gif",
+    "static/media/florient.3411c152.png": "/static/media/florient.3411c152.png",
+    "static/media/governance.7b2f1a96.gif": "/static/media/governance.7b2f1a96.gif",
+    "static/media/governance.d23df5ea.png": "/static/media/governance.d23df5ea.png",
+    "static/media/info.876f9fec.gif": "/static/media/info.876f9fec.gif",
+    "static/media/layer-data-consultant.gif": "/static/media/layer-data-consultant.fff7f829.gif",
+    "static/media/mdm.gif": "/static/media/mdm.0393c0e5.gif",
+    "static/media/metadata.gif": "/static/media/metadata.ce5f095d.gif",
+    "static/media/pascal.d08377ae.png": "/static/media/pascal.d08377ae.png",
+    "static/media/presentation.gif": "/static/media/presentation.d3f27399.gif",
+    "static/media/rachid.363b2170.png": "/static/media/rachid.363b2170.png",
+    "static/media/sem.a600bb38.gif": "/static/media/sem.a600bb38.gif",
+    "static/media/spot.b5c5de1c.mp4": "/static/media/spot.b5c5de1c.mp4",
+    "static/media/talend.0cc6a4b3.gif": "/static/media/talend.0cc6a4b3.gif",
+    "static/media/video2.01012ad5.mp4": "/static/media/video2.01012ad5.mp4",
+    "static/media/videohero.4c30b84b.mp4": "/static/media/videohero.4c30b84b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1127d5d6.js",
+    "static/js/2.de182342.chunk.js",
+    "static/js/main.6914d244.chunk.js"
+  ]
+}
